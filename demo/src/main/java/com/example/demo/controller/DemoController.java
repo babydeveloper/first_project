@@ -11,7 +11,6 @@ public class DemoController {
 	public String demo(Model model){
 		model.addAttribute("name", "Hello springboot!!!!");
 		return "demo/hello";
-		//asdasddsadsa
 	}
 	
 }

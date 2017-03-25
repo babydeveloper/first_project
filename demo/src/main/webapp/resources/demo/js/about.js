@@ -1,0 +1,7 @@
+/**
+ * 
+ */
+
+$("#previous").on('click', function(){
+	
+});

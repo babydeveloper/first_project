@@ -8,7 +8,7 @@ public class DemoController {
 	
 	@RequestMapping(value = "/")
 	public String demo(){
-		return "hello";
+		return "demo/hello";
 	}
 	
 }
